@@ -1,0 +1,10 @@
+	<!-- CSS Externo -->
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+	<link rel="stylesheet" href="CSS/bootstrap.min.css">
+
+
+	<!-- JavaScript Externo -->
+	
+	<script src="JS/jquery.min.js"></script>
+	<script src="JS/script.js"></script>
+	<script defer src="JS/detalhes.js"></script>
